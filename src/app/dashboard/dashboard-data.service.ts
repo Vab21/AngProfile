@@ -8,13 +8,13 @@ import { map } from 'rxjs/operators';
 })
 export class DashboardDataService {
   constructor(private http: HttpClient) { }
-  achievementsUrl = '../assets/achievements.json';
-  contactUrl = '../assets/contact.json';
-  educationUrl = '../src/assets/education.json';
-  skillsUrl = '../assets/skills.json';
-  languagesUrl = '../assets/languages.json';
-  hobbiesUrl = '../assets/hobbies.json';
-  workExpUrl = '../assets/workExp.json';
+  achievementsUrl = 'https://github.com/Vab21/AngProfile/blob/master/assets/achievements.json';
+  contactUrl = 'https://github.com/Vab21/AngProfile/blob/master/assets/contact.json';
+  educationUrl = 'https://github.com/Vab21/AngProfile/blob/master/assets/education.json';
+  skillsUrl = 'https://github.com/Vab21/AngProfile/blob/master/assets/skills.json';
+  languagesUrl = 'https://github.com/Vab21/AngProfile/blob/master/assets/languages.json';
+  hobbiesUrl = 'https://github.com/Vab21/AngProfile/blob/master/assets/hobbies.json';
+  workExpUrl = 'https://github.com/Vab21/AngProfile/blob/master/assets/workExp.json';
   workExp: any;
   hobbies: any;
   contact: any;
