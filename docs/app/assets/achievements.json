@@ -1,0 +1,24 @@
+[{
+    "achievementId": 1,
+    "achievementTitle": "Angular Course Completion Certification",
+    "achievementShortDetail": "Completed Udemy course of angular in 2018",
+    "achievementFullDetail" : "Completed the course on angular 2+ complete guide provided by Max. covering all the basic to intermediate and complex concepts in angular."
+  },
+  {
+    "achievementId": 2,
+    "achievementTitle": "Data science Certification",
+    "achievementShortDetail": "Completed Corsera certification on Datascience in 2019",
+    "achievementFullDetail" : "Learned the basic concepts of data science and its various tools. Course was provided by IBM. Also made capstone project on Battle of Neighborhoods."
+  },
+  {
+    "achievementId": 3,
+    "achievementTitle": "TCS Digital",
+    "achievementShortDetail": "T-factor of 2.99 (TCS Digital)",
+    "achievementFullDetail" : "It's an organizationall level achievement for learning different techonologies. "
+  },
+  {
+    "achievementId": 4,
+    "achievementTitle": "TCS Gems",
+    "achievementShortDetail": "Received Tcs gems for performing well in multiple areas.",
+    "achievementFullDetail" : "It's an organizational level appreciation platform for performing well in multiple areas like learning new technoligies.Account level activities, etc."
+  }]
